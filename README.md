@@ -5,4 +5,4 @@ I’m currently learning everything I can about deep learning, with focus on gen
 
 
 
-https://www.azmihaider.com/
+https://azmihaider92.github.io/
